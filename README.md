@@ -1,14 +1,3 @@
-ゲーム再生URL
---
-[![助けて、プルン！](https://img.youtube.com/vi/n3eLcbGAQjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3eLcbGAQjk)
-
-*画像をクリックするとリンクに接続されます。<br>
-
-*エラーが生じた場合、以下のリンク先でお願い致します。<br>
-https://youtu.be/n3eLcbGAQjk
-
-
-
 タイトル：助けて、プルン！　／　開発期間：25年10月30日 ～ 25年11月25日
 --
 ある日と変わらず友達と冒険をしていた「プルン」。 
@@ -27,4 +16,14 @@ https://youtu.be/n3eLcbGAQjk
 ＊ジャンプの高さ: 緑 > 赤 (黄色、青はジャンプが不可能)<br>
 
 各能力を活用してマップの構造物を攻略し、無事に友達を救出してください！
+
+ゲーム再生URL
+--
+[![助けて、プルン！](https://img.youtube.com/vi/n3eLcbGAQjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3eLcbGAQjk)
+
+*画像をクリックするとリンクに接続されます。<br>
+
+*エラーが生じた場合、以下のリンク先でお願い致します。<br>
+https://youtu.be/n3eLcbGAQjk
+
 
