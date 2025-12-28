@@ -21,7 +21,7 @@
 --
 [![助けて、プルン！](https://img.youtube.com/vi/n3eLcbGAQjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3eLcbGAQjk)
 
-*画像をクリックするとリンクに接続されます。<br>
+*画像をクリックするとリンクに繋がります。<br>
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/n3eLcbGAQjk
