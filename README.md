@@ -22,26 +22,11 @@
 <br>
 
 ## 🎮 操作方法
-<table>
-  <tr>
-    <td><b>移動</b></td>
-    <td><code>←</code> (左)</td>
-    <td><code>→</code> (右)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>アイテム開放</b></td>
-    <td><code>Space</code></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>変身</b></td>
-    <td><code>１</code> (緑)</td>
-    <td><code>２</code> (赤)</td>
-    <td><code>３</code> (黄) / <code>４</code> (青)</td>
-  </tr>
-</table>
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| :--- | :--- | :--- | :--- |
+| **移動** | `←` (左) | `→` (右) | |
+| **アイテム開放** | `Space` | | |
+| **変身** | `１ (緑)` | `２ (赤)` | `３ (黄)` | `４ (青)` |
 
 
 
