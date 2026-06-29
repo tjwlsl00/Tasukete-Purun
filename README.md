@@ -1,14 +1,10 @@
 タイトル：助けて、プルン！　／　開発期間：25年10月30日 ～ 25年11月25日(108時間)
 --
-# 🌍 世界観 ＆ ストーリー (World & Story)
+# 🌍 世界観 
 ### **いつものように、大切な友達と冒険を楽しんでいた「プルン」**
 
 しかし、その平穏は一瞬にして破られることになる。
 突如として響き渡ったのは、大地を揺るがす―― **『ドーーーン！！』** という轟音。
-
----
-
-### 🚨 突然の襲撃、連れ去られた仲間たち
 驚いて「プルン」が後ろを振り返った瞬間、そこに広がっていたのは信じられない光景だった。
 さっきまで隣で笑っていた大切な友達が、突如現れた**モグラの群れ**に捕まり、連れ去られていく姿だったのだ！
 遠ざかっていく群れの中から、「プルン」に必死の救いを求める友達の声……
@@ -25,13 +21,34 @@
 | **🔵 青** | **縮小能力** | ★ 3位 | ❌ 不可 | 緑・赤・黄色で通れない狭い区域を通ることができる |
 <br>
 
+## 🎮 操作方法
+<table>
+  <tr>
+    <td><b>移動</b></td>
+    <td><code>←</code> (左)</td>
+    <td><code>→</code> (右)</td>
+  </tr>
+  <tr>
+    <td><b>アイテム開放</b></td>
+    <td colspan="2"><code>Space</code></td>
+  </tr>
+  <tr>
+    <td><b>変身</b></td>
+    <td colspan="2">
+      <code>1 (緑)</code> <code>2 (赤)</code> <code>3 (黄)</code> <code>4 (青)</code>
+    </td>
+  </tr>
+</table>
+
+
+
 ゲーム再生URL
 --
-[![助けて、プルン！](https://img.youtube.com/vi/n3eLcbGAQjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3eLcbGAQjk)
+[![助けて、プルン！](https://img.youtube.com/vi/Ge4XfyeltLM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ge4XfyeltLM)
 
 *画像をクリックするとリンクに繋がります。<br>
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
-https://youtu.be/n3eLcbGAQjk
+https://youtu.be/Ge4XfyeltLM
 
 
