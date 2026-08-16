@@ -31,6 +31,10 @@
     <td><code>←</code> (左)</td>
     <td><code>→</code> (右)</td>
   </tr>
+   <tr>
+    <td><b>JUMP</b></td>
+    <td><code>Space</code></td>
+  </tr>
   <tr>
     <td><b>変身</b></td>
     <td colspan="2">
