@@ -1,6 +1,7 @@
 タイトル：助けて、プルン！　／　開発期間：25年10月30日 ～ 25年11月25日(108時間)
 --
 ## メイン画面
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/2a40ef75-51d7-49c3-a308-67c4958728a5" />
 
 ## 世界観
 しかし、その平穏は一瞬にして破られることになる。
@@ -20,6 +21,7 @@
 | **🔵 青** | **縮小能力** | ★ 3位 | ❌ 不可 | 緑・赤・黄色で通れない狭い区域を通ることができる |
 
 ## ステージ
+<img width="1579" height="837" alt="Image" src="https://github.com/user-attachments/assets/e8ab019c-ac9c-4e0b-8b79-10e92b4efcc7" />
 
 
 ## 操作方法
