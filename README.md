@@ -26,21 +26,22 @@
 
 ## 操作方法
 <table>
-  <tr>
-    <td><b>移動</b></td>
-    <td><code>←</code> (左)</td>
-    <td><code>→</code> (右)</td>
-  </tr>
-   <tr>
-    <td><b>JUMP</b></td>
-    <td><code>Space</code></td>
-  </tr>
-  <tr>
-    <td><b>変身</b></td>
-    <td colspan="2">
-      <code>1 (緑)</code> <code>2 (赤)</code> <code>3 (黄)</code> <code>4 (青)</code>
-    </td>
-  </tr>
+ <tr>
+  <td><b>移動</b></td>
+  <td><code>←</code> (左)</td>
+  <td><code>→</code> (右)</td>
+</tr>
+<tr>
+  <td><b>JUMP</b></td>
+  <td colspan="2"><code>Space</code></td>
+</tr>
+<tr>
+  <td><b>変身</b></td>
+  <td colspan="2">
+    <code>1 (緑)</code> <code>2 (赤)</code> <code>3 (黄)</code> <code>4 (青)</code>
+  </td>
+</tr>
+
 </table>
 
 
