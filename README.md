@@ -32,10 +32,6 @@
     <td><code>→</code> (右)</td>
   </tr>
   <tr>
-    <td><b>アイテム開放</b></td>
-    <td colspan="2"><code>Space</code></td>
-  </tr>
-  <tr>
     <td><b>変身</b></td>
     <td colspan="2">
       <code>1 (緑)</code> <code>2 (赤)</code> <code>3 (黄)</code> <code>4 (青)</code>
