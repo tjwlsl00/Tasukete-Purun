@@ -53,7 +53,7 @@ https://youtu.be/Ge4XfyeltLM
 <br>
 画像およびリンクをクリックすることで、動画に接続できます。
 
-ビルドデータ▣Unity6000.3.10f1
+ビルドデータ▣Unity6000.0.37f1
 --
 <div style="display: flex; align-items: center; gap: 8px;">
   <a href="https://drive.google.com/drive/folders/1ybsgp-35xKDdpv8DgGihnNbeEbOFED01?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
